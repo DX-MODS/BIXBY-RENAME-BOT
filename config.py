@@ -1,8 +1,11 @@
-# Copyright (C) 2023 DX_MODS
-#Licensed under the  AGPL-3.0 License;
+# Copyright (C) 2024 DX-MODS
+#Licensed under the  MIT License;
 #you may not use this file except in compliance with the License.
 #Author ZIYAN
+#if you use our codes try to donate here https://www.buymeacoffee.com/ziyankp
+
 #if you are not deploying through buttons you can paste variable here
+
 import re, os, time
 
 id_pattern = re.compile(r'^.\d+$') 
